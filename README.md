@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Henrique welcome to my repositories, here you have a mix of personal projects and college related assignments.</h2>
+<h2 align="left">Hi 👋! My name is Henrique welcome to my repositories</h2>
+
+<p>I am an International Student living in Toronto Canada, attending to Computer Programming at Gerogian College! Here you have a mix of personal projects and college related repositories. </p>
 
 ###
 
