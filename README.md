@@ -32,8 +32,5 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/henriquegoncalvesdev/henriquegoncalvesdev/output/snake.svg" alt="Snake animation" />
 
 ###
