@@ -95,6 +95,6 @@ Migrated a legacy **Delphi** ERP to a web solution using **React**, **Node.js**,
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=henriquegoncalvesdevE&show_icons=true&theme=transparent" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=henriquegoncalvesdev&show_icons=true&theme=transparent" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=henriquegoncalvesdev&theme=transparent" alt="GitHub Streak" />
 </p>
