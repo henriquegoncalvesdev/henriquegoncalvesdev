@@ -160,8 +160,9 @@
 **Let's Connect and Discuss Your Next Project!**
 
 [![Email](https://img.shields.io/badge/Email-henriquegoncalvesdev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henriquegoncalvesdev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/henriquegoncalvesdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/henrique-goncalves-dev)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/henriquegoncalvesdev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=web&logoColor=white)](#)
 
 **📍 Location:** Toronto, Canada  
 **💼 Status:** Open to new opportunities  
