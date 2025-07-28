@@ -19,7 +19,7 @@ I'm a full‑stack developer with more than **4 years of experience** building 
 |---|---|---|---|---|
 | <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/csharp.svg" width="32" alt="C#"/> **C#** | <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/java.svg" width="32" alt="Java"/> **Java** | <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/kotlin.svg" width="32" alt="Kotlin"/> **Kotlin** | <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/javascript.svg" width="32" alt="JavaScript"/> **JavaScript** | <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/typescript.svg" width="32" alt="TypeScript"/> **TypeScript** |
 | <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/python.svg" width="32" alt="Python"/> **Python** | <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/php.svg" width="32" alt="PHP"/> **PHP** | <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/delphi.svg" width="32" alt="Delphi"/> **Delphi** | <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cplusplus.svg" width="32" alt="C++"/> **C++** | <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/ruby.svg" width="32" alt="Ruby"/> **Ruby** |
-| <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/rust.svg" width="32" alt="Rust"/> **Rust** | <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/go.svg" width="32" alt="Go"/> **Go** | <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/perl.svg" width="32" alt="Perl"/> **Perl** |  |  |
+ |  |  |
 
 ### 🏗️ Frameworks & Libraries
 
